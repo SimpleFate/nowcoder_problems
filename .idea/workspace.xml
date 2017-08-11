@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98adf98f-f311-4adf-babc-4214f24ef991" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hust/corey/Main.java" afterPath="$PROJECT_DIR$/src/com/hust/corey/Main.java" />
-    </list>
+    <list default="true" id="98adf98f-f311-4adf-babc-4214f24ef991" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,16 +57,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem003.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem003.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hust/corey/Problem003.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+            <state relative-caret-position="241">
+              <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#423#424#0" expanded="true" />
                 <element signature="e#449#450#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem004.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hust/corey/Problem004.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/com/hust/corey/Problem002.java" />
         <option value="$PROJECT_DIR$/src/com/hust/corey/Main.java" />
         <option value="$PROJECT_DIR$/src/com/hust/corey/Problem003.java" />
+        <option value="$PROJECT_DIR$/src/com/hust/corey/Problem004.java" />
       </list>
     </option>
   </component>
@@ -578,12 +586,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502347799307</updated>
-      <workItem from="1502347804548" duration="23054000" />
+      <workItem from="1502347804548" duration="24274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23054000" />
+    <option name="totallyTimeSpent" value="24274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -673,13 +681,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hust/corey/Problem003.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        <state relative-caret-position="241">
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#423#424#0" expanded="true" />
             <element signature="e#449#450#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hust/corey/Problem004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
